@@ -43,7 +43,7 @@ function Portfolio() {
 
         <div className="imagenes">
           <a href="WhatsApp : 3206078767">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/150px-WhatsApp.svg.png" alt="wsp" className="wsp" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" alt="wsp" className="wsp" />
           </a>
           <a href="https://www.instagram.com/darwin_criollo08/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/250px-Instagram_logo_2022.svg.png" alt="inst" className="inst" />
